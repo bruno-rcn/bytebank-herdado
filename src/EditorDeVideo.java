@@ -3,6 +3,7 @@ public class EditorDeVideo extends Funcionario {
 
 	@Override
 	public double getBonificacao() {
-		return super.getBonificacao() + 100;
+		System.out.println("Chamando o método de bonificacao do Editor de video");
+		return 150;
 	}
 }
