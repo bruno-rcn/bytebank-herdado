@@ -16,6 +16,7 @@ public class TesteGerente {
 		System.out.println("Nome do gerente: " + bruno.getNome());
 		System.out.println("Salario do gerente: " + bruno.getSalario());
 		System.out.println("autenticando a senha: " + autentica);
+		System.out.println("bonificacao do gerente: " + bruno.getBonificacao());
 	}
 
 }
