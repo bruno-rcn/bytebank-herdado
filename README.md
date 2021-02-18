@@ -1,7 +1,7 @@
 # **Bytebank-herdado**
 
 # Status do Projeto
-> - Finalizado! :hourglass:
+> - Em andamento! :hourglass:
 
 *******
 # :file_folder: Tabela de conteúdo
